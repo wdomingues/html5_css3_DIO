@@ -10,6 +10,11 @@ header{
     margin-top: 50px;
 }
 
+footer{
+    margin-top: 50px;
+    margin-bottom: 30px
+}
+
 h1{
     color: yellow;
     font-family: serif;
@@ -24,6 +29,11 @@ p{
     font-size: 18px;
 }
 
-img{
+.img_padrao{
     margin-bottom: 20px;
+    width: 640px;
+}
+
+.icone{
+    width: 30px;
 }
